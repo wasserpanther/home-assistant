@@ -55,7 +55,8 @@ TAHOMA_TYPES = {
     'io:OnOffLightIOComponent': 'switch',
     'rtds:RTDSSmokeSensor': 'smoke',
     'rtds:RTDSContactSensor': 'sensor',
-    'rtds:RTDSMotionSensor': 'sensor'
+    'rtds:RTDSMotionSensor': 'sensor',
+    'io:DualRollerShutterIOComponent': 'cover'
 }
 
 
